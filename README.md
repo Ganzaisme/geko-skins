@@ -1,5 +1,3 @@
-# geko-skins
-My skins
 # Geko's skinhub
 <p align="center">
 <a href="https://osu.ppy.sh/users/19550805">
@@ -10,15 +8,7 @@ My skins
 last updated 07/01/2023
 </p>
 
-<a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
-<img src="https://i.imgur.com/uDyKiLi.png"
-       width="151" 
-       height="70"/></a>
 
-<a href="https://i.imgur.com/o0kMf8Y.png">
-<img src="https://i.imgur.com/o0kMf8Y.png"
-       width="151" 
-       height="70"/></a>
 
 # [nin24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
 [![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
