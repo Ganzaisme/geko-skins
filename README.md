@@ -1,9 +1,9 @@
 # geko-skins
 My skins
-# ninerik's skinhub
+# Geko's skinhub
 <p align="center">
-<a href="https://osu.ppy.sh/users/10549880">
-  <img src="https://a.ppy.sh/10549880"  
+<a href="https://osu.ppy.sh/users/19550805">
+  <img src="https://a.ppy.sh/19550805"  
        width="150"
        height="150"></a>
 <br>
