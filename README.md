@@ -43,15 +43,15 @@ last updated 07/01/2023
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/ninerik_">
+  <a href="https://www.twitch.tv/geko_727">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
-  <a href="https://www.youtube.com/channel/UCjR9CND0FMlyigdPqvNIKIw">
+  <a href="https://www.youtube.com/channel/UC9pR92e8IvNI2cdvP7XbHHQ">
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
        height="100"></a>
-  <a href="https://twitter.com/ninerik_">
+  <a href="https://twitter.com/gekodontmiss">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
