@@ -10,7 +10,7 @@ last updated 07/01/2023
 
 
 
-# [nin24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
+# [speed skin main](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
 [![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
 
 # [aristiatekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/aristiatekkito.osk)
@@ -25,7 +25,7 @@ last updated 07/01/2023
 # [varv_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
 [![](https://osu.ppy.sh/ss/18358542/0944)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
 
-# [ninerik old](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
+# [speed skin old](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 [![](https://osu.ppy.sh/ss/18127526/c02b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 
 # [Arnold 24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Arnold24x24.osk)
@@ -34,7 +34,7 @@ last updated 07/01/2023
 # [fancy lad](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
 [![](https://osu.ppy.sh/ss/18127519/e37b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
 
-# [Varvalian + bloo cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
+# [Varv + bloo cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
 [![](https://osu.ppy.sh/ss/18127524/707a)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
 
 # [Intercambing](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Intercambing.osk)
