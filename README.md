@@ -25,6 +25,9 @@ last updated 11/01/2023
 # [speed skin main](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
 [![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
 
+# [Rafis but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/Rafis%20but%20SZ.osk)
+[![](https://osu.ppy.sh/ss/18205112/543f)](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/Rafis%20but%20SZ.osk)
+
 # [aristiatekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/aristiatekkito.osk)
 [![](https://osu.ppy.sh/ss/18358518/cf11)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/aristiatekkito.osk)
 
@@ -33,6 +36,9 @@ last updated 11/01/2023
 
 # [tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/tekkito.osk)
 [![](https://osu.ppy.sh/ss/18358539/78ca)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/tekkito.osk)
+
+# [₍ᐢ. ̫ .ᐢ₎](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
+[![](https://secret.s-ul.eu/2XhEF1x7)](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
 
 # [varv_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
 [![](https://osu.ppy.sh/ss/18358542/0944)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
