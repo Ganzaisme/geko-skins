@@ -13,6 +13,9 @@ last updated 11/01/2023
 # [tko reused](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
 [![](https://osu.ppy.sh/ss/18330165/692a)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
 
+# [prodigy](https://ryh.s-ul.eu/CwyJqZCM)
+![](https://osu.ppy.sh/ss/17913985/2473)
+
 # [- villicet](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/-%20villicet.osk)
 [![](https://osu.ppy.sh/ss/18330650/1912)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/-%20villicet.osk)
 
