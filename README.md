@@ -46,8 +46,8 @@ last updated 04/03/2024
 # [speed skin old](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 [![](https://osu.ppy.sh/ss/18127526/c02b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 
-# [Arnold 24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Arnold24x24.osk)
-[![](https://osu.ppy.sh/ss/18127514/594e)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Arnold24x24.osk)
+# [#celaxaetrna 2020-08-05](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%23celaxaetrna%202020-08-05.osk)
+[![](https://osu.ppy.sh/ss/18330653/0eaa)](https://github.com/ryancranie/skinhub/raw/tyfh/player/reused/%23celaxaetrna%202020-08-05.osk)
 
 # [fancy lad](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
 [![](https://osu.ppy.sh/ss/18127519/e37b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
