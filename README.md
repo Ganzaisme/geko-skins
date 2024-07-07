@@ -22,9 +22,6 @@ last updated 04/03/2024
 # [2umu](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/2umu.osk)
 [![](https://osu.ppy.sh/ss/18330662/eb2d)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/2umu.osk)
 
-# [speed skin main](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
-[![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
-
 # [Rafis but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/Rafis%20but%20SZ.osk)
 [![](https://osu.ppy.sh/ss/18205112/543f)](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/Rafis%20but%20SZ.osk)
 
@@ -40,9 +37,6 @@ last updated 04/03/2024
 # [₍ᐢ. ̫ .ᐢ₎](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
 [![](https://secret.s-ul.eu/2XhEF1x7)](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
 
-# [varv_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
-[![](https://osu.ppy.sh/ss/18358542/0944)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
-
 # [speed skin old](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 [![](https://osu.ppy.sh/ss/18127526/c02b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
 
@@ -51,9 +45,6 @@ last updated 04/03/2024
 
 # [fancy lad](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
 [![](https://osu.ppy.sh/ss/18127519/e37b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
-
-# [Varv + bloo cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
-[![](https://osu.ppy.sh/ss/18127524/707a)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
 
 # [Intercambing](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Intercambing.osk)
 [![](https://osu.ppy.sh/ss/18127521/9c1b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Intercambing.osk)
